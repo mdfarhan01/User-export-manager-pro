@@ -1,6 +1,6 @@
 === User Export Manager Pro ===
-Contributors: farhansadik
-Tags: export users, import users, user export, csv, user meta
+Contributors: farhansadik01
+Tags: user export manager, export users, import users, csv, user meta, xlsx, json, xml, custom fields, bulk user import, user migration, user management
 Requires at least: 6.2
 Tested up to: 7.1
 Requires PHP: 7.4
